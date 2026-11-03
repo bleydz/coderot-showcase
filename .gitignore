@@ -1,0 +1,13 @@
+.env
+.env.*
+*.key
+*.pem
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+__pycache__/
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
